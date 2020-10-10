@@ -1,4 +1,4 @@
 var admin, name;
-name='ჯემალა';
+name='დავითი';
 admin=name;
 alert (admin);
